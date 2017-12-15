@@ -1,0 +1,2 @@
+export const LOAD_DEFAULT='LOAD_DEFAULT';
+export const REGISTER_USER='REGISTER_USER';
